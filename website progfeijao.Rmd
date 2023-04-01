@@ -43,3 +43,9 @@ usethis::use_git()
 usethis::use_github()
 ```
 
+```{r}
+
+library(blogdown)
+serve_site()
+```
+
