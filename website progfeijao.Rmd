@@ -9,6 +9,7 @@ output: html_document
 install.packages("blogdown")
 library(blogdown)
 blogdown::install_hugo()
+blogdown::
 library(usethis)
 install.packages("gh")
 install.packages("gitcreds")
