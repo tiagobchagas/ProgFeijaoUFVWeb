@@ -9,7 +9,7 @@ output: html_document
 install.packages("blogdown")
 library(blogdown)
 blogdown::install_hugo()
-blogdown::
+#blogdown::
 library(usethis)
 install.packages("gh")
 install.packages("gitcreds")
@@ -46,6 +46,8 @@ usethis::use_github()
 ```{r}
 
 library(blogdown)
+blogdown::build_site()
 serve_site()
+hugo
 ```
 

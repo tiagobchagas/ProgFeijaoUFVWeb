@@ -1,6 +1,7 @@
-baseurl: https://progfeijaoufv.netlify.app
+baseurl: https://tiagobchagas.github.io/ProgFeijaoUFVWeb/
 title: Programa Feijão UFV
 theme: hugo-theme-cleanwhite
+publishDIR: "docs"
 languageCode: en-us
 disqusShortname: ''
 googleAnalytics: ''
@@ -90,3 +91,4 @@ markup:
   tableOfContents:
     endLevel: 2
     startLevel: 1
+    
