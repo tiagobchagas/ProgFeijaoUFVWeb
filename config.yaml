@@ -58,7 +58,7 @@ params:
     - href: https://www.instagram.com/daa.ufv/
       title: DAA - UFV
   friends: yes
-  header_image: static/img/bean.jpeg
+  header_image: img/bean.jpeg
   image_404: static/img/404-bg.jpg
   keyword: Estatística Experimental, Genética Quantitativa, Melhoramento Genético, Autógamas
   leancloud_app_id: ''
@@ -67,7 +67,7 @@ params:
   page_view_conter: no
   reward: no
   sidebar_about_description: Plant breeding, statistics
-  sidebar_avatar: static/img/logo-feijao.png
+  sidebar_avatar: img/logo-feijao.png
   slogan: Melhoramento de Plantas
   social:
     email: tiagomcap@gmail.com
