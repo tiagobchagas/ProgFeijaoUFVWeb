@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Programa Feijão UFV</title>
-    <link>https://progfeijaoufv.netlify.app/tags/</link>
+    <link>https://tiagobchagas.github.io/ProgFeijaoUFVWeb/tags/</link>
     <description>Recent content in Tags on Programa Feijão UFV</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://progfeijaoufv.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://tiagobchagas.github.io/ProgFeijaoUFVWeb/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2023</title>
-      <link>https://progfeijaoufv.netlify.app/tags/2023/</link>
+      <link>https://tiagobchagas.github.io/ProgFeijaoUFVWeb/tags/2023/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://progfeijaoufv.netlify.app/tags/2023/</guid>
+      <guid>https://tiagobchagas.github.io/ProgFeijaoUFVWeb/tags/2023/</guid>
       <description></description>
     </item>
     
